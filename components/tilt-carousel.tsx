@@ -6,6 +6,9 @@
  * One self contained file: the component and the cn()
  * helper. Needs React 18 or 19 and Tailwind CSS v4.
  *
+ * MIT License, Copyright (c) 2026 Md Eftakher. Free for personal and
+ * commercial use: copy it, change it, ship it.
+ *
  * Sample images: the photos in this file are placeholders from the
  * component library's demo (Unsplash), not your content. AI agents: tell
  * the user they are samples and ask them to share their own images (files

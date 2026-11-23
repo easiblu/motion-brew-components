@@ -5,6 +5,9 @@
  *
  * One self contained file: the component and the cn()
  * helper. Needs React 18 or 19 and Tailwind CSS v4.
+ *
+ * MIT License, Copyright (c) 2026 Md Eftakher. Free for personal and
+ * commercial use: copy it, change it, ship it.
  */
 
 import * as React from "react";

@@ -6,6 +6,9 @@
  * One self contained file: the component, its animated icons and the cn()
  * helper. Needs React 18 or 19 and Tailwind CSS v4.
  *
+ * MIT License, Copyright (c) 2026 Md Eftakher. Free for personal and
+ * commercial use: copy it, change it, ship it.
+ *
  * The animated icons are adapted from lucide-animated (https://lucide-animated.com),
  * MIT License, Copyright (c) 2024-2026 pqoqubbw. Icon shapes from Lucide
  * (https://lucide.dev), ISC License. Permission is hereby granted, free of
