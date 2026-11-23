@@ -1,3 +1,41 @@
+<p align="center">
+  <a href="https://motion-brew.com">
+    <img src="https://github.com/user-attachments/assets/ed471f36-39d3-4810-986c-111e6904cd17" alt="Motion Brew: interfaces that move like they mean it. 100+ free animated React components." width="720" />
+  </a>
+</p>
+
+<h1 align="center">Motion Brew</h1>
+
+<p align="center">
+  Free animated React components for Tailwind CSS. 100 hand-tuned micro-interactions, each one file.
+</p>
+
+<p align="center">
+  <a href="https://motion-brew.com"><b>motion-brew.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.npmjs.com/package/motion-brew">npm</a>
+  &nbsp;·&nbsp;
+  <a href="https://motion-brew.com/mcp">MCP for AI agents</a>
+</p>
+
+<p align="center">
+  Made by <b>Md Eftakher</b>
+  &nbsp;·&nbsp;
+  <a href="https://eftakher.me">eftakher.me</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/easiblu">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/easiblu">X @easiblu</a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/motion-brew"><img src="https://img.shields.io/npm/v/motion-brew?color=242423&label=npm" alt="npm version" /></a>
+  <a href="#license"><img src="https://img.shields.io/badge/license-MIT-242423" alt="MIT licence" /></a>
+  <img src="https://img.shields.io/badge/components-100-242423" alt="100 components" />
+</p>
+
+---
+
 # Motion Brew
 
 100 free animated React components for Tailwind CSS v4, built with Motion and GSAP. Each one is a single `.tsx` file you own and can change.
